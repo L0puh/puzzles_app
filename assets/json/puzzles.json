@@ -1,0 +1,39 @@
+{
+  "puzzles": [
+    {
+      "name": "Шторм в горах",
+      "image": "storm.png",
+      "plywood": "Береза, 4 мм",
+      "count": "25",
+      "price": 300.0
+    },
+    {
+      "name": "Заказ в небе",
+      "image": "sea.png",
+      "plywood": "Сосна, 4 мм",
+      "count": "45",
+      "price": 800.0
+    },
+    {
+      "name": "Осень",
+      "image": "nature.png",
+      "plywood": "Тик, 6 мм",
+      "count": "20",
+      "price": 400.0
+    },
+    {
+      "name": "Горы",
+      "image": "mountains.png",
+      "plywood": "Вишня, 4 мм",
+      "count": "78",
+      "price": 1000.0
+    },
+    {
+      "name": "Дождь",
+      "image": "autumn.png",
+      "plywood": "Махагон, 9 мм",
+      "count": "50",
+      "price": 900.0
+    }
+  ]
+}
